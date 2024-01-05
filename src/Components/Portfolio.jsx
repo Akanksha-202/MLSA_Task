@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desk.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "PIZZABAE",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A simple and user-friendly chatbot, that facilitates seamless pizza ordering for customers. Built by a team of four, the project’s source code is written in Python.",
+    url: "https://github.com/Akanksha-202/pizzabae",
   },
   {
-    title: "Web Development for Beginners",
+    title: "UniteUp.",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A platform leveraging cutting-edge technologies (React.js, Firebase, Material UI) for seamless project profile creation, sharing, and team member discovery.",
+    url: "https://uniteup-3235.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "TravelSafe",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A web application that empowers women’s travel safety through features like fake video calls for constant contact and enhanced protection. Developed using React and TensorFlow for speech recognition.",
+    url: "https://github.com/Akanksha-202/travel-safe",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "What and Hoe: Github Copilot",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Hosted the hands-on workshop delving into the world of GitHub Copilot, an AI-powered coding assistant transforming the way developers work.",
+    url: "https://mega.nz/file/GqRGVLyB#6rrluctA40iaJ1VMHYLvji5m0AI7jJcVSzghYCK2FGw",
   },
 ];
 
